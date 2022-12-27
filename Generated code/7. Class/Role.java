@@ -3,12 +3,12 @@
 /**
  * @author Иван
  * @version 1.0
- * @created 25-дек-2022 17:36:20
+ * @created 27-дек-2022 10:21:36
  */
 public class Role {
 
 	private byte idRole;
-	private string name;
+	private string roleName;
 
 	public Role(){
 

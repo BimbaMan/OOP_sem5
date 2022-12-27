@@ -3,7 +3,7 @@
 /**
  * @author Иван
  * @version 1.0
- * @created 25-дек-2022 17:36:20
+ * @created 27-дек-2022 10:21:36
  */
 public class Director extends MainController User {
 
@@ -14,8 +14,13 @@ public class Director extends MainController User {
 	public void finalize() throws Throwable {
 
 	}
-	public DateTime chooseTimePeriod(){
-		return null;
+	/**
+	 * 
+	 * @param date1
+	 * @param date2
+	 */
+	public void chooseDatePeriod(DateTime date1, DateTime date2){
+
 	}
 
 	/**
